@@ -1,0 +1,6 @@
+{
+  "name": "EdTech Studio - KHBD 5512 & Đề thi 7991",
+  "description": "Hệ thống số hóa Kế hoạch bài dạy chuẩn Công văn 5512, Trình chiếu Slide sư phạm và Đề kiểm tra định kỳ 4 phần chuẩn Công văn 7991/BGDĐT-GDTrH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
